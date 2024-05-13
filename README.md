@@ -4,7 +4,7 @@ My first repository
 ![alt text](str.jpg)
 [Stranger Things](https://strangerthings.fandom.com/wiki/Stranger_Things_Wiki)
 **STRANGER THINGS** is a science-fiction horror web television series created, written and directed by the **Duffer Brothers**, and executive-produced by **Shawn Levy**. The show was released as a **Netflix** original series premiering on July 15, 2016. The show takes place in the fictional town of **Hawkins, Indiana** in the early-to-mid 1980s. When a **young boy** vanishes, Hawkins becomes embroiled in an extraordinary mystery involving **secret experiments, terrifying supernatural forces** and one **strange little girl**...
-### Characters
+### Characters 
 [Will Byers](https://strangerthings.fandom.com/wiki/Will_Byers)
 ![Will](will.jpg)
 ```
